@@ -1,0 +1,209 @@
+Now generating 500000 random numbers.
+Sum of all dividers = 5840636
+
+real    0m0.720s
+user    0m0.719s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5825022
+
+real    0m0.681s
+user    0m0.674s
+sys 0m0.003s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5830679
+
+real    0m0.717s
+user    0m0.716s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5830679
+
+real    0m0.716s
+user    0m0.711s
+sys 0m0.003s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5836851
+
+real    0m0.719s
+user    0m0.714s
+sys 0m0.003s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5832280
+
+real    0m0.720s
+user    0m0.718s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5840493
+
+real    0m0.679s
+user    0m0.676s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5840493
+
+real    0m0.717s
+user    0m0.716s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5822886
+
+real    0m0.713s
+user    0m0.708s
+sys 0m0.003s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5837417
+
+real    0m0.680s
+user    0m0.676s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5837417
+
+real    0m0.714s
+user    0m0.713s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5844338
+
+real    0m0.718s
+user    0m0.717s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5827369
+
+real    0m0.717s
+user    0m0.715s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5838240
+
+real    0m0.714s
+user    0m0.713s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5838240
+
+real    0m0.715s
+user    0m0.710s
+sys 0m0.004s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5842846
+
+real    0m0.680s
+user    0m0.677s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5821082
+
+real    0m0.716s
+user    0m0.715s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5821082
+
+real    0m0.683s
+user    0m0.673s
+sys 0m0.007s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5850992
+
+real    0m0.716s
+user    0m0.715s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5831311
+
+real    0m0.715s
+user    0m0.714s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5831311
+
+real    0m0.680s
+user    0m0.672s
+sys 0m0.004s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5835770
+
+real    0m0.715s
+user    0m0.713s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5838003
+
+real    0m0.715s
+user    0m0.714s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5838798
+
+real    0m0.716s
+user    0m0.715s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5838798
+
+real    0m0.716s
+user    0m0.712s
+sys 0m0.004s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5832555
+
+real    0m0.676s
+user    0m0.673s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5833532
+
+real    0m0.677s
+user    0m0.670s
+sys 0m0.004s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5833532
+
+real    0m0.715s
+user    0m0.713s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5836985
+
+real    0m0.717s
+user    0m0.715s
+sys 0m0.000s
+
+Now generating 500000 random numbers.
+Sum of all dividers = 5828371
+
+real    0m0.727s
+user    0m0.726s
+sys 0m0.000s
